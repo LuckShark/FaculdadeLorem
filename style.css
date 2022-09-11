@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    width: 100%;
+    position: -webkit-sticky; /* Necessário para funcionar no Safari */
+    position: sticky;
+    top: 0;
+}
+.menu {
+    background-color: #FFFFFF;
+    text-align: center;
+}
+.menu ul li {
+    display: inline-block;
+    
+}
+.menu ul li a {
+    display: block;
+    color: rgb(126, 44, 126);
+    padding: 30px 10px;
+}
+a:hover{
+    background-color: #eff0f1;
+}
+.ul-menu{
+    display: inline-block;
+    margin-left: 350px;
+    margin-bottom: 15px;
+}
+.img-container{
+    background-color: #eff0f1;
+
+}
+.cover{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.logo{
+    margin-top: 30px;
+}
+.main {
+    padding: 50px 0;
+}
+.content {
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    background-color: #FFFFFF;
+    height: 800px;
+}
+.content h1 {
+    margin-bottom: 30px;
+}
+.MEC{
+    width: 80%;
+    margin: auto;
+    padding:30px;
+    background-color: #FFFFFF;
+    height: 100px;
+}
+ol{
+    margin: 10px 0 0 25px;
+}
+hr{
+    width: 80%;
+    margin: auto;
+    padding: .5px;
+    background-color: rgb(23, 48, 172);
+}
+
+.contato{
+    width: 80%;
+    margin: auto;
+    padding: 30px;
+    background-color: #FFFFFF;
+    height: 180px;
+}
+.linha-contato{
+    width: 100%;
+    margin: auto;
+    padding: .1px;
+    background-color: black;
+}
+.footer {
+    background-color: #eff0f1;
+    text-align: center;
+    padding: 20px 0;
+    position: -webkit-sticky; /*  Safari */
+    position: sticky;
+    bottom: 0;
+}
