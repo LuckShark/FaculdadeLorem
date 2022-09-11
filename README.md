@@ -1,3 +1,3 @@
-# FaculdadeLorem
-Atividade de Ambientes de Des. de Software
-# Lucas Araújo
+# Faculdade Lorem
+Atividade de Ambientes de Des. de Software<br>
+Lucas Araújo
